@@ -1,0 +1,13 @@
+Automated testing example
+
+The file add.py defines a function named addTwoNumbers().  It hasn't
+been implemented very well.
+
+To run the script:
+
+    python add.py
+
+
+To test the script:
+
+    pytest
